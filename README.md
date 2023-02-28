@@ -57,5 +57,5 @@ I am a Data Science Professional <img src="https://media.giphy.com/media/WUlplcM
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" **alt="NumPy" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL Server" **alt="MSSQL" width="40" height="40"/>
 </div>
-<br>
+###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anakel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
