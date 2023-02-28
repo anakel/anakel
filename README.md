@@ -43,6 +43,7 @@ I am a Data Science Professional <img src="https://media.giphy.com/media/WUlplcM
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Panagiotis%20S.-blue)](https://www.linkedin.com/in/panagiotis-sideris-44343899/)
+- :open_file_folder: Tableau [![Tableau_Badge](https://img.shields.io/badge/-Tableau-yellow)](https://public.tableau.com/app/profile/panagiotis.sideris5476)
 
 
 <div>
